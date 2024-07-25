@@ -118,11 +118,14 @@ function updateRobotDirection(direction) {
 
 ## The result
 
-<img width="1440" alt="Screen Shot 2024-07-25 at 4 06 49 AM" src="https://github.com/user-attachments/assets/53e06f51-0efd-4198-b699-403b8910ef60">
+- <img width="1440" alt="Screen Shot 2024-07-25 at 4 06 49 AM" src="https://github.com/user-attachments/assets/53e06f51-0efd-4198-b699-403b8910ef60">
 
 
 
-<img width="947" alt="Screen Shot 2024-07-25 at 4 15 49 AM" src="https://github.com/user-attachments/assets/fc55e107-fa91-4b42-9adf-a792df6eda66">
+
+
+
+- <img width="947" alt="Screen Shot 2024-07-25 at 4 15 49 AM" src="https://github.com/user-attachments/assets/fc55e107-fa91-4b42-9adf-a792df6eda66">
 
 
 
