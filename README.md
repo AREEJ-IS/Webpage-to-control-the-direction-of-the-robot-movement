@@ -8,9 +8,8 @@
 <img width="664" alt="Screen Shot 2024-07-25 at 3 19 32 AM" src="https://github.com/user-attachments/assets/cc632531-14a0-4028-8084-8ad054105a11">
 
 
-go to >xampp>htdocs
-create a folder inside (htdocs) and give it a name.
-open that file in VS code.
+- go to >xampp>htdocs ، create a folder inside (htdocs) and give it a name.
+- open that file in VS code.
 
 
 ## Step 3 : create a database and table and some columns
@@ -88,7 +87,7 @@ $conn->close();
   }
 ````
 
--js
+- js
 ````
 // Function to update the robot's direction in the database
 function updateRobotDirection(direction) {
@@ -123,7 +122,7 @@ function updateRobotDirection(direction) {
 
 
 
-<img width="947" alt="Screen Shot 2024-07-25 at 4 15 49 AM" src="https://github.com/user-attachments/assets/c4a59d72-56ff-4ad6-a43a-009986ca8e94">
+<img width="947" alt="Screen Shot 2024-07-25 at 4 15 49 AM" src="https://github.com/user-attachments/assets/fc55e107-fa91-4b42-9adf-a792df6eda66">
 
 
 
